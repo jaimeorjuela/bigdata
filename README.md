@@ -25,8 +25,8 @@ A nivel de INFRAESTRUCTURA, tecnologías como Hadoop y NoSQL son utilizadas para
 
 |Descripción|Archivo|
 |----|--------|
-|Código Fuente|[XXX](https://github.com/jaimeorjuela/bigdata/README.md)|
-|Despliegue de Aplicación|[XXX](https://github.com/jaimeorjuela/bigdata/README.md)|
-|Documentación|[XXX](https://github.com/jaimeorjuela/bigdata/README.md)|
+|Código Fuente|[XXX](https://github.com/jaimeorjuela/bigdata/)|
+|Despliegue de Aplicación|[XXX](https://github.com/jaimeorjuela/bigdata/)|
+|Documentación|[XXX](https://github.com/jaimeorjuela/bigdata/)|
 |Dataset|[Kaggle](https://www.kaggle.com/c/miia4201-202019-p3-moviegenreclassification/data)|
 
