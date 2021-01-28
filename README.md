@@ -2,6 +2,11 @@
 
 *Instructores: Christian Ariza, Claudia Jiménez*
 
+## Grupo de trabajo
+* Nestor Fabián Cholo Acevedo, cod.: 201523509
+* Jaime Orjuela Viracachá, cod.: 201924252
+* Juan Sebastián Vaca Tibocha, cod.: 20XXXXXX
+
 ## Objetivos pedagógicos 
 El propósito del curso es presentar, analizar y utilizar las oportunidades de innovación que ofrece el análisis de grandes cantidades de datos en: la toma de decisiones estratégicas y tácticas de una organización, el desarrollo de aplicaciones en diferentes campos del conocimiento y la selección e integración de infraestructuras que aseguren una alta escalabilidad permitiendo así un crecimiento natural de las soluciones implementadas.
 
