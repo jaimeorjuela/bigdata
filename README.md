@@ -19,3 +19,14 @@ A NIVEL ESTRATÉGICO Y TÁCTICO de una organización, el análisis de Big Data b
 A nivel de DESARROLLO DE APLICACIONES BIG DATA, se cuenta con técnicas y metodologías propias para el manejo de este tipo de información que además son adaptables a diferentes campos de aplicación, permitiendo así el uso efectivo de los datos en el análisis de una problemática específica. En particular, la paralelización de procesos es una técnica que permite la escalabilidad de las aplicaciones. A nivel de lenguajes de desarrollo, Spark es una alternativa en auge.
 
 A nivel de INFRAESTRUCTURA, tecnologías como Hadoop y NoSQL son utilizadas para facilitar la alta escalabilidad necesaria en procesamiento, y almacenamiento de este tipo de información. El uso de este tipo de tecnologías acompañado de la definición de arquitecturas orientadas a los datos, permite ofrecer sistemas robustos y eficientes generando ventajas competitivas en diferentes perspectivas en el ámbito empresarial, así como en los ámbitos científico e investigativo.
+
+# Contenido
+### Proyecto 1
+
+|Description|File|
+|----|--------|
+|Código Fuente|[XXXX](https://github.com/jaimeorjuela/bigdata/readme.md)|
+|Despliegue de Aplicación|[XXX](https://github.com/jaimeorjuela/bigdata/readme.md)|
+|Documentación|[Movie Genre Prediction](https://github.com/jaimeorjuela/bigdata/readme.md)|
+|Dataset|[Kaggle](https://www.kaggle.com/c/miia4201-202019-p3-moviegenreclassification/data)|
+
