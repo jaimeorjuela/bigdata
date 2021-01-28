@@ -23,7 +23,7 @@ A nivel de INFRAESTRUCTURA, tecnologías como Hadoop y NoSQL son utilizadas para
 # Contenido
 ### Proyecto 1
 
-|Description|File|
+|Descripción|Archivo|
 |----|--------|
 |Código Fuente|[XXX](https://github.com/jaimeorjuela/bigdata/readme.md)|
 |Despliegue de Aplicación|[XXX](https://github.com/jaimeorjuela/bigdata/readme.md)|
