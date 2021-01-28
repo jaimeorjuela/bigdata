@@ -5,7 +5,7 @@
 ## Grupo de trabajo
 * Nestor Fabián Cholo Acevedo, cod.: 201523509
 * Jaime Orjuela Viracachá, cod.: 201924252
-* Juan Sebastián Vaca Tibocha, cod.: 20XXXXXX
+* Juan Sebastián Vaca Tibocha, cod.: 201618059
 
 ## Objetivos pedagógicos 
 <i>Tomnado del <a href=https://bloqueneon.uniandes.edu.co/d2l/le/lessons/25917/topics/127502>programa del curso</a> disponible en la plataforma <a href=https://bloqueneon.uniandes.edu.co>https://bloqueneon.uniandes.edu.co</a></i>
