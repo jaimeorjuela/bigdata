@@ -8,6 +8,8 @@
 * Juan Sebastián Vaca Tibocha, cod.: 20XXXXXX
 
 ## Objetivos pedagógicos 
+<i>Tomnado del <a href=https://bloqueneon.uniandes.edu.co/d2l/le/lessons/25917/topics/127502>programa del curso</a> disponible en la plataforma <a href=https://bloqueneon.uniandes.edu.co>https://bloqueneon.uniandes.edu.co</a></i>
+
 El propósito del curso es presentar, analizar y utilizar las oportunidades de innovación que ofrece el análisis de grandes cantidades de datos en: la toma de decisiones estratégicas y tácticas de una organización, el desarrollo de aplicaciones en diferentes campos del conocimiento y la selección e integración de infraestructuras que aseguren una alta escalabilidad permitiendo así un crecimiento natural de las soluciones implementadas.
 
 BIG DATA (Datos Enormes) es el término para referirse al contexto DE INTEGRACIÓN Y ANÁLISIS de cantidades masivas de INFORMACIÓN móvil, Web, social y en la nube, PERTINENTES PARA EL USUARIO y relevantes para entender el ECOSISTEMA DE UNA ORGANIZACIÓN. El análisis de cantidades enormes de datos que se generan tanto dentro de las organizaciones como fuera de ellas, ha cambiado las TECNOLOGÍAS y las METODOLOGÍAS con las cuales se desarrollan soluciones basadas en CONTENIDOS que buscan generar valor, diferenciación y oportunidad en la TOMA DE DECISIONES.
